@@ -1,5 +1,5 @@
 # sample
 
-- [Book 1](100 - Book 1/README.md)
-  - [Book 1 - Chapter 1](100 - Book 1/110 - Book 1 - Chapter 1/README.md)
+- [Gitbook](100 - Gitbook/README.md)
+  - [Gitbook - Installation](100 - Gitbook/110 - Gitbook - Installation/README.md)
 * [References](References.md)

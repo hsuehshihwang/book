@@ -1,0 +1,5 @@
+_book
+package-lock.json
+package.json
+node_modules
+book.pdf
